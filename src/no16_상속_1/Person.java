@@ -1,4 +1,4 @@
-package no16;
+package no16_상속_1;
 
 public class Person {
 
