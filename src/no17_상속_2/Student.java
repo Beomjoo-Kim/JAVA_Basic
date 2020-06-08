@@ -1,4 +1,4 @@
-package no16_상속_1;
+package no17_상속_2;
 
 public class Student extends Person {
 
