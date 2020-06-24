@@ -28,6 +28,7 @@ public class No13_배열_1 {
 			result = max(result, arr[i]);
 		}
 		System.out.println("입력한 정수 중 가장 큰 값은 : " + result);
+		sc.close();
 	}
 
 }

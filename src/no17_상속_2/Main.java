@@ -50,6 +50,7 @@ public class Main {
 		for(int i = 0; i < number; i++) {
 			students[i].show();
 		}
+		sc.close();
 	}
 
 }
