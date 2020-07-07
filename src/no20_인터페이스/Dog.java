@@ -13,4 +13,6 @@ public interface Dog {
 	
 	public void show();
 	//이러한 함수가 존재한다는 것만 알려주어야 함.
+	
+	public void one();
 }
